@@ -2,8 +2,9 @@
 
 * [Sobre o autor](#introdução)
 * [Principais conhecimento](#Principais-conhecimentos)
-* [Primeiro Semestre - Fatech](#em-2021-2)
 * [Contatos](#contatos)
+* [Primeiro Semestre - Fatech](#em-2021-2)
+
 
 # Antonio Marcelo Brito Barbosa
 
