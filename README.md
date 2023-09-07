@@ -18,7 +18,7 @@
 
 | Metodologia Ágil | Front-end | Back-end | Versionamento |
 |-------------|-------------|-------------|-------------------|
-| <img src="https://github.com/mateushlsilva/Portfolio-ADS/blob/main/imagens/scrum.png" height="30%" width="30%"/> <img src="https://github.com/mateushlsilva/Portfolio-ADS/blob/main/imagens/kanban.png" height="30%" width="30%" /> |[![My Skills](https://skillicons.dev/icons?i=html,css,js,react )](https://skillicons.dev)| [![My Skills](https://skillicons.dev/icons?i=nodejs,typescript)](https://skillicons.dev) |[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)|
+| <img src="/img/scrum.png" height="30%" width="30%"/> <img src="/img/kanban.png" height="30%" width="30%" /> |[![My Skills](https://skillicons.dev/icons?i=html,css,js,react )](https://skillicons.dev)| [![My Skills](https://skillicons.dev/icons?i=nodejs,typescript)](https://skillicons.dev) |[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)|
 
 ## Contatos
 
