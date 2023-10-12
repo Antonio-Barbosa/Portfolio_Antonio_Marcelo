@@ -45,7 +45,7 @@ As tecnologias adotadas para a solução foram as seguintes:
 
 #### Contribuições pessoais
 
-Durante o processo de desenvolvimento do projeto, minha principal atuação foi em toda criação do site, desde a criação dos wireframes usando figma, a estruturação das páginas e estilização delas usando HTML e CSS.
+Durante o processo de desenvolvimento do projeto, minha principal função envolveu a criação completa do site, desde a elaboração dos wireframes no Figma, passando pela estruturação das páginas e a estilização utilizando HTML e CSS.
 Fui responsável por desenvolver a parte do filtro dos projetos utilizando JavaScript, além de fazer a alocação dos mesmos no site.
 
 #### Hard Skills

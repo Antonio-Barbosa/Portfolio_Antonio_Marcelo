@@ -30,7 +30,7 @@ As tecnologias adotadas para a solução foram as seguintes:
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="200" /> [Java](https://www.java.com/pt-BR/), Utilizado para criação das interfaces quanto da conexão com o banco de dados.
 * <img src="https://ucarecdn.com/0295176b-b17a-4106-b3b0-5bf2b14365e6/" alt="Logo do MYSQL" width="200" /> [MYSQL](https://www.mysql.com/), Utilizado como banco de dados do projeto.
 * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1776px-Apache_NetBeans_Logo.svg.png" alt="Logo do netBeans" width="200" /> [NetBeans](https://netbeans.apache.org/), Utilizado como IDE para o desenvolvimento do código.
-* <img src="https://skillicons.dev/icons?i=git,github" alt="Logo git/github" width="200" /> [NetBeans](https://netbeans.apache.org/),  Utilizado para versionamento e armazenamento do código.
+* <img src="https://skillicons.dev/icons?i=git,github" alt="Logo git/github" width="200" /> [Git](https://git-scm.com/doc),  Utilizado para versionamento e armazenamento do código.
 
 
 #### Contribuições pessoais
