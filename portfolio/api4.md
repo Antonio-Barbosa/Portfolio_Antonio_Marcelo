@@ -18,10 +18,6 @@ Esta solução proporciona a administração de usuários, juntamente com suas r
 	<p align="center"><strong>Backlog das sprints</strong></p>
 </p>
 
-### Apresentação do projeto
-[link da apresentação](https://github.com/Gabriel-Coutinho0/Portifolio-Gabriel-Coutinho-Silva/assets/67170978/3929c940-3bcb-4a1f-bee5-53f4dfdfb4cd)
-
-
 
 ### Link do Github
 <a href="https://github.com/4-Fatech/API-4Semestre" target="_blank"><img src="/img/logoGit.png" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Fatech</span></a>
@@ -67,7 +63,7 @@ As tecnologias adotadas para a solução foram as seguintes:
 
 #### Contribuições pessoais
 
-Durante o processo de desenvolvimento do projeto, minha principal função envolveu a criação completa do site, desde a elaboração dos wireframes no Figma, passando pela estruturação das páginas e a estilização. Diferentemente dos outros projetos, este foi criado com base totalmente em ReactJS. Além disso, fui responsável pela criação do sistema de notificação para todos os usuários considerados interessados naquela solução.
+Durante o processo de desenvolvimento do projeto, minha principal função envolveu a criação completa do site, desde a elaboração dos wireframes no Figma, passando pela estruturação das páginas e a estilização. Diferentemente dos outros projetos, este foi criado com base totalmente em ReactJS. Além disso, fui responsável pela criação do sistema de notificação para todos os usuários considerados interessados naquela solução, onde estas notificações eram enviadas por e-mail a cada alteração no estado do chamado.
 
 
 #### Hard Skills
