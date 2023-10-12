@@ -30,9 +30,9 @@
 | Semestre | Desáfio |
 |----------|---------------------------------------------------------------------------------|
 | [1º Semestre 2021-2](https://github.com/Antonio-Barbosa/Portfolio_Antonio_Marcelo/blob/main/portfolio/README.md) |  Sistema de raspagem e clonagem |
-| 2º Semestre | Desenvolvimento de uma aplicação desktop |
-| 3º Semestre |	Desenvolvimento de uma aplicação para realizar o cálculo de distância da pista de pouso |
-| 4º Semestre |	Desenvolvimento de uma aplicação web |
+| 2º Semestre 2022-1 | Desenvolvimento de uma aplicação desktop |
+| 3º Semestre 2022-2|	Desenvolvimento de uma aplicação para realizar o cálculo de distância da pista de pouso |
+| 4º Semestre 2023-1|	Desenvolvimento de uma aplicação web |
 | 5º Semestre |
 
 
