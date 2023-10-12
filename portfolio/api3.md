@@ -53,7 +53,6 @@ Durante o processo de desenvolvimento do projeto, minha principal função envol
 #### Soft Skills  
 
 * Trabalho em equipe: Durante o decorrer do processo de desenvolvimento, decidimos fragmentar o projeto em tarefas a fim de evitar sobrecarregar qualquer integrante da equipe. Essa abordagem possibilitou o aprimoramento da colaboração entre os membros, garantindo, assim, a entrega de um trabalho de elevada excelência.
-* Gerenciamento de tempo: Sem dúvidas essa foi umas das Soft Skills mais exercitadas por mim, saber conciliar o tempo entre trabalho e estudos, com toda certeza não é uma tarefa fácil, no começo foi difícil, mas depois de muito planejamento, o gerenciamento de tempo passou a se tornar algo natural em minha rotina, tanto acadêmica como profissional. 
 * Empatia: Para entender a necessidade do cliente e contruir uma aplicação para o atender e sanar sua dor.
 * Autodidatismo: Com a necessidade de usar uma nova tecnologia, tive que bsucar novos conhecimentos por conta própria.
 
