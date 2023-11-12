@@ -80,7 +80,7 @@ As tecnologias adotadas para a solução foram as seguintes:
 
 #### Contribuições pessoais
 
-Durante o processo de desenvolvimento do projeto, minha principal função envolveu a criação completa do site, desde a elaboração dos wireframes no Figma, passando pela estruturação das páginas e a estilização. Diferentemente dos outros projetos, este foi criado com base totalmente em ReactJS. Além disso, fui responsável pela criação do sistema de notificação para todos os usuários considerados interessados naquela solução, onde estas notificações eram enviadas por e-mail a cada alteração no estado do chamado.
+Neste projeto, além de desempenhar o papel de Product Owner, compreendendo completamente as necessidades de nosso cliente e apresentando as melhores alternativas para a solução, fui encarregado de criar parte das telas, especialmente aquelas relacionadas aos usuários. Realizei a implementação de melhorias, como a utilização da localização atual do dispositivo no cadastro de equipamentos, e estabeleci a conexão destas telas com o banco de dados.
 
 
 #### Hard Skills
