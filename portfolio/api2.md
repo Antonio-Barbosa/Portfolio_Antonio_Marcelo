@@ -46,8 +46,8 @@ Participei ativamente no desenvolvimento das Interfaces Gráficas do Usuário (G
 
 #### Soft Skills  
 
-* Trabalho em equipe: Durante o decorrer do processo de desenvolvimento, decidimos fragmentar o projeto em tarefas a fim de evitar sobrecarregar qualquer integrante da equipe. Essa abordagem possibilitou o aprimoramento da colaboração entre os membros, garantindo, assim, a entrega de um trabalho de elevada excelência.
-* Empatia: Para entender a necessidade do cliente e contruir uma aplicação para o atender e sanar sua dor.
-* Autodidatismo: Com a necessidade de usar uma nova tecnologia, tive que bsucar novos conhecimentos por conta própria.
+* Trabalho em equipe: No decorrer do processo de desenvolvimento, decidimos fragmentar o projeto em tarefas a fim de evitar sobrecarregar qualquer integrante da equipe. Essa abordagem possibilitou o aprimoramento da colaboração entre os membros, garantindo, assim, a entrega de um trabalho de elevada excelência.
+* Empatia: Para entender a necessidade do cliente e construir uma aplicação para atender e sanar sua dor.
+* Autodidatismo: Com a necessidade de usar uma nova tecnologia, tive que buscar novos conhecimentos por conta própria.
 
 ##
