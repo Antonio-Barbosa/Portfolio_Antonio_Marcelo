@@ -63,7 +63,7 @@ Esta solução proporciona também a administração de usuários, juntamente co
 * Setando Localização em tempo real no cadastro
 <p align="center">
 	<img    src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/498f2b07-95f6-47b6-9f44-b8425f2b7871" alt="Prévia da solução">
-	<p align="center"><strong>Localização em tempo real n</strong></p>
+	<p align="center"><strong>Localização em tempo real</strong></p>
 </p>
 
 
@@ -74,7 +74,7 @@ As tecnologias adotadas para a solução foram as seguintes:
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="Logo do React" width="200" /> [React](https://react.dev/), Framework utilizado para desenvolvimento de interfaces simples e interativas.
 * <img src="https://camo.githubusercontent.com/a1ef4331694eb076ce159cf4c7c3fe2c19b91a19d718ddf25176fd2a3f1c6b02/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d6f6e676f" alt="Logo do MongoDB" width="200" /> [MongoDB](https://www.mongodb.com/pt-br), Utilizado como banco de dados do projeto.
 
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Logo do JavaScript" width="200" /> [VScode](https://code.visualstudio.com/),Utilizado como ferramenta para o desenvolvimento do código.
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Logo do JavaScript" width="200" /> [VScode](https://code.visualstudio.com/), Utilizado como ferramenta para o desenvolvimento do código.
 * <img src="https://skillicons.dev/icons?i=git,github" alt="Logo git/github" width="200" /> [Git](https://git-scm.com/doc), Utilizado para versionamento e armazenamento do código.
 
 
