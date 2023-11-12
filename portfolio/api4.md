@@ -75,8 +75,8 @@ Durante o processo de desenvolvimento do projeto, minha principal função envol
 
 #### Soft Skills  
 
-* Trabalho em equipe: Durante o decorrer do processo de desenvolvimento, decidimos fragmentar o projeto em tarefas a fim de evitar sobrecarregar qualquer integrante da equipe. Essa abordagem possibilitou o aprimoramento da colaboração entre os membros, garantindo, assim, a entrega de um trabalho de elevada excelência.
-* Empatia: Para entender a necessidade do cliente e contruir uma aplicação para o atender e sanar sua dor.
+* Trabalho em equipe: No decorrer do processo de desenvolvimento, decidimos fragmentar o projeto em tarefas a fim de evitar sobrecarregar qualquer integrante da equipe. Essa abordagem possibilitou o aprimoramento da colaboração entre os membros, garantindo, assim, a entrega de um trabalho de elevada excelência.
+* Empatia: Para entender a necessidade do cliente e construir uma aplicação para atender e sanar sua dor.
 * Criatividade: Certamente, este projeto elevou minha criatividade ao máximo, deixando-me completamente satisfeito com o resultado final, tanto em termos de estética como de funcionalidade.
 
 
