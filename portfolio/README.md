@@ -8,7 +8,7 @@ Para acompanhar a onda da indústria 4.0, a escola decidiu adotar uma estratégi
 
 ### Visão do Projeto
 
-O grupo criou um projeto chamado Fatech, com o objetivo de automatizar a clonagem dos projetos realizados pelas turmas dos cursos de TI dos semestres antecessores. Tudo começou com a necessidade de armazenar e clonar os projetos feitos, para que esses projetos pudessem ser guardados e gerenciados pela instituição da FATEC. A ideia central era desenvolver uma aplicação em Python que fosse capaz de coletar os links do GitHub de cada grupo e, em seguida, clonar automaticamente os projetos, Além de criarmos um site para facilitar a filtragem dos projetos, usando o nome do grupo ou semestre cursado, por exemplo.
+O grupo criou um projeto chamado Fatech, com o objetivo de automatizar a clonagem dos projetos realizados pelas turmas dos cursos de TI dos semestres antecessores. Tudo começou com a necessidade de armazenar e clonar os projetos feitos, para que esses projetos pudessem ser guardados e gerenciados pela instituição da FATEC. A ideia central era desenvolver uma aplicação em Python que fosse capaz de coletar os links do GitHub de cada grupo e, em seguida, clonar automaticamente os projetos, além de criarmos um site para facilitar a filtragem dos projetos, usando o nome do grupo ou semestre cursado, por exemplo.
 
 ### Sprints Backlog
 
