@@ -14,7 +14,7 @@ Esta solução proporciona a administração de usuários, juntamente com suas r
 ### Sprints Backlog
 
 <p align="center">
-	<img src="/img/backLog5.png.png" alt="Backlog das sprints">
+	<img src="/img/backLog5.png" alt="Backlog das sprints">
 	<p align="center"><strong>Backlog das sprints</strong></p>
 </p>
 
