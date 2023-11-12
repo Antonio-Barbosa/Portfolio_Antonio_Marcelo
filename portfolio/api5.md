@@ -23,9 +23,10 @@ Esta solução proporciona também a administração de usuários, juntamente co
 <a href="https://github.com/4-Fatech/API5Semestre" target="_blank"><img src="/img/logoGit.png" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Fatech</span></a>
 
 ### Projeto:
+
 * CRUD de Equipamentos e Usuarios
 <p align="center">
-	<img src="https://www.youtube.com/watch?v=7IwTFC6wEow" alt="Prévia da solução">
+	  <a href="https://www.youtube.com/watch?v=7IwTFC6wEow" target="_blank">video</a>
 	<p align="center"><strong>CRUD de Equipamentos e Usuarios</strong></p>
 </p>
 
@@ -46,16 +47,19 @@ Esta solução proporciona também a administração de usuários, juntamente co
 	<img  src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/f96c2b50-5f6c-4c10-ac43-475b70624221" alt="Prévia da solução">
 	<p align="center"><strong>Diferença de acesso</strong></p>
 </p>
+
 * Mapa
 <p align="center">
 	<img  src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/92d52cad-1ae5-4b5f-8831-1ad6b466bf9d" alt="Prévia da solução">
 	<p align="center"><strong>Mapa</strong></p>
 </p>
+
 * Filtro de Busca no Mapa
 <p align="center">
 	<img   src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/1d7c3f5b-5d80-4ad9-a31e-448a33e1d55f" alt="Prévia da solução">
 	<p align="center"><strong>Filtro de busca no Mapa</strong></p>
 </p>
+
 * Setando Localização em tempo real no cadastro
 <p align="center">
 	<img    src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/498f2b07-95f6-47b6-9f44-b8425f2b7871" alt="Prévia da solução">
