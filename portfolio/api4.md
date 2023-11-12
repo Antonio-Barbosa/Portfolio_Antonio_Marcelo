@@ -57,7 +57,7 @@ As tecnologias adotadas para a solução foram as seguintes:
 * <img src="https://camo.githubusercontent.com/edbc72808229088568aceb3e147c8518743f518a4aa679662774701ce275a796/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7461696c77696e64" alt="Logo do tailwind" width="200" /> [TailWind CSS](https://tailwindcss.com/), Foi o framework utilizado para estilização das interfaces.
 * <img src="https://camo.githubusercontent.com/0172e1f995dc825cdb78c6209ae9d969c64db1106a066714c12dd3f52073624a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f737467726573716c" alt="Logo do PostgreSQL" width="200" /> [PostgreSQL](https://www.postgresql.org/), Utilizado como banco de dados do projeto.
 * <img src="https://ucarecdn.com/0295176b-b17a-4106-b3b0-5bf2b14365e6/" alt="Logo do MYSQL" width="200" /> [MYSQL](https://www.mysql.com/), Utilizado como banco de dados do projeto.
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Logo do JavaScript" width="200" /> [VScode](https://code.visualstudio.com/),Utilizado como ferramenta para o desenvolvimento do código.
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Logo do JavaScript" width="200" /> [VScode](https://code.visualstudio.com/), Utilizado como ferramenta para o desenvolvimento do código.
 * <img src="https://skillicons.dev/icons?i=git,github" alt="Logo git/github" width="200" /> [Git](https://git-scm.com/doc), Utilizado para versionamento e armazenamento do código.
 
 
