@@ -80,7 +80,7 @@ As tecnologias adotadas para a solução foram as seguintes:
 
 #### Contribuições pessoais
 
-Neste projeto, além de desempenhar o papel de Product Owner, compreendendo completamente as necessidades de nosso cliente e apresentando as melhores alternativas para a solução, fui encarregado de criar parte das telas, especialmente aquelas relacionadas aos usuários. Realizei a implementação de melhorias, como a utilização da localização atual do dispositivo no cadastro de equipamentos, e estabeleci a conexão destas telas com o banco de dados.
+Neste projeto, além de desempenhar o papel de Product Owner, compreendendo completamente as necessidades de nosso cliente e apresentando as melhores alternativas para a solução, fui encarregado de criar parte das telas, especialmente aquelas relacionadas aos usuários. Realizei a implementação de melhorias, como a utilização da localização atual do dispositivo no cadastro de equipamentos, criação do filtro dos equipamentos no mapa e a conexão destas telas com o banco de dados.
 
 
 #### Hard Skills
