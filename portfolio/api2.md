@@ -35,7 +35,7 @@ As tecnologias adotadas para a solução foram as seguintes:
 
 #### Contribuições pessoais
 
-Estive envolvido no desenvolvimento das GUI, uma parte da modelagem do banco de dados, e principalmente nos CRUD’s necessários da aplicação.
+Participei ativamente no desenvolvimento das Interfaces Gráficas do Usuário (GUI), desempenhei um papel crucial na modelagem do banco de dados e, sobretudo, dediquei-me intensamente à implementação dos CRUDs essenciais para o funcionamento da aplicação. Minha contribuição abrangeu desde a concepção visual até a funcionalidade operacional, garantindo uma participação integral no processo de desenvolvimento.
 
 #### Hard Skills
 
