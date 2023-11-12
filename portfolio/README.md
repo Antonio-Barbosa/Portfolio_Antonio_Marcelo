@@ -58,7 +58,7 @@ Fui responsável por desenvolver a parte do filtro dos projetos utilizando JavaS
 
 #### Soft Skills  
 
-* Trabalho em equipe: Durante o decorrer do processo de desenvolvimento, decidimos fragmentar o projeto em tarefas a fim de evitar sobrecarregar qualquer integrante da equipe. Essa abordagem possibilitou o aprimoramento da colaboração entre os membros, garantindo, assim, a entrega de um trabalho de elevada excelência.
+* Trabalho em equipe: No decorrer do processo de desenvolvimento, decidimos fragmentar o projeto em tarefas a fim de evitar sobrecarregar qualquer integrante da equipe. Essa abordagem possibilitou o aprimoramento da colaboração entre os membros, garantindo, assim, a entrega de um trabalho de elevada excelência.
 * Organização e planejamento: Com pouco tempo para realizar as atividades devido a rotina de trabalho e estudos, consegui gerenciar com muita organização e planejamento.
 * Gerenciamento de tempo: Sem dúvidas essa foi umas das Soft Skills mais exercitadas por mim, saber conciliar o tempo entre trabalho e estudos, com toda certeza não é uma tarefa fácil, no começo foi difícil, mas depois de muito planejamento, o gerenciamento de tempo passou a se tornar algo natural em minha rotina, tanto acadêmica como profissional. 
 
