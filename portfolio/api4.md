@@ -14,7 +14,7 @@ Esta solução proporciona a administração de usuários, juntamente com suas r
 ### Sprints Backlog
 
 <p align="center">
-	<img src="/img/backLog5.png" alt="Backlog das sprints">
+	<img src="/img/backlog4.png" alt="Backlog das sprints">
 	<p align="center"><strong>Backlog das sprints</strong></p>
 </p>
 
@@ -24,45 +24,29 @@ Esta solução proporciona a administração de usuários, juntamente com suas r
 
 ### Projeto:
 
-* CRUD de Equipamentos e Usuarios
+* Crud Ticket
 <p align="center">
-	<img src="https://www.youtube.com/watch?v=7IwTFC6wEow" alt="Prévia da solução">
-	<p align="center"><strong>CRUD de Equipamentos e Usuarios</strong></p>
+	<img src="https://user-images.githubusercontent.com/88494278/241337746-8ca5d49a-2d2c-4286-9c47-b3d564701738.gif" alt="Prévia da solução">
+	<p align="center"><strong>Prévia do CRUD do Ticket</strong></p>
 </p>
 
-* Login
+* Kanban e avaliação
 <p align="center">
-	<img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/78205bb6-7c09-4513-bc64-bd99d83bc205"  alt="Prévia da solução">
-	<p align="center"><strong>Login</strong></p>
+	<img src="https://user-images.githubusercontent.com/88494278/238147819-a71b2b87-938a-458e-9da9-5bacb63df6be.gif" alt="Prévia da solução">
+	<p align="center"><strong>Prévia do Kanban e avaliação</strong></p>
 </p>
 
-* Tela de Perfil
+* Árvore dinâmica
 <p align="center">
-	<img src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/2ff41e74-1f4f-47e4-940d-d5dcd3ccb692"  alt="Prévia da solução">
-	<p align="center"><strong>Perfil</strong></p>
+	<img src="https://user-images.githubusercontent.com/88494278/238147813-cd73e933-a0bb-4c82-8d4e-cd2605bf0450.gif" alt="Prévia da solução">
+	<p align="center"><strong>Prévia da árvore aprovação</strong></p>
 </p>
 
-* Cadastro de Tipos de usuarios
+* Opção de idioma
 <p align="center">
-	<img  src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/f96c2b50-5f6c-4c10-ac43-475b70624221" alt="Prévia da solução">
-	<p align="center"><strong>Diferença de acesso</strong></p>
+	<img src="https://user-images.githubusercontent.com/88494278/238147808-15896a2d-bf10-4a55-af8a-8fc592336ea5.gif" alt="Prévia da solução">
+	<p align="center"><strong>Prévia da opção de idioma</strong></p>
 </p>
-* Mapa
-<p align="center">
-	<img  src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/92d52cad-1ae5-4b5f-8831-1ad6b466bf9d" alt="Prévia da solução">
-	<p align="center"><strong>Mapa</strong></p>
-</p>
-* Filtro de Busca no Mapa
-<p align="center">
-	<img   src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/1d7c3f5b-5d80-4ad9-a31e-448a33e1d55f" alt="Prévia da solução">
-	<p align="center"><strong>Filtro de busca no Mapa</strong></p>
-</p>
-* Setando Localização em tempo real no cadastro
-<p align="center">
-	<img    src="https://github.com/dsslleagion/PortifolioADS-Dionisio-Samuel/assets/88494278/498f2b07-95f6-47b6-9f44-b8425f2b7871" alt="Prévia da solução">
-	<p align="center"><strong>Localização em tempo real n</strong></p>
-</p>
-
 
 #### Tecnologias adotadas na solução
 
