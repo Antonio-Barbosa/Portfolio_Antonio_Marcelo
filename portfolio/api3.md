@@ -33,7 +33,7 @@ As tecnologias adotadas para a solução foram as seguintes:
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Logo do JavaScript" width="200" /> [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript), Utilizado para a criação do site.
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="Logo do JavaScript" width="200" /> [React](https://react.dev/), Framework utilizado para desenvolvimento de interfaces simples e interativas.
 * <img src="https://ucarecdn.com/0295176b-b17a-4106-b3b0-5bf2b14365e6/" alt="Logo do MYSQL" width="200" /> [MYSQL](https://www.mysql.com/), Utilizado como banco de dados do projeto.
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Logo do JavaScript" width="200" /> [VScode](https://code.visualstudio.com/),Utilizado como ferramenta para o desenvolvimento do código.
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Logo do JavaScript" width="200" /> [VScode](https://code.visualstudio.com/), Utilizado como ferramenta para o desenvolvimento do código.
 * <img src="https://skillicons.dev/icons?i=git,github" alt="Logo git/github" width="200" /> [Git](https://git-scm.com/doc), Utilizado para versionamento e armazenamento do código.
 
 
