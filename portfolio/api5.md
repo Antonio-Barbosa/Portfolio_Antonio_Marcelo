@@ -86,15 +86,16 @@ Durante o processo de desenvolvimento do projeto, minha principal função envol
 #### Hard Skills
 
 * Desenvolvimento com linguagem TypeScript: Sei fazer com autonomia.
-* Desenvolvimento com linguagem JavaScript: Sei fazer com autonomia.
-* Desenvolvimento Web em  ReactJS: Sei fazer com autonomia.
+* Desenvolvimento Mobile em React Native: Sei fazer com autonomia.
+* Banco de Dados (MongoDB): Sei fazer com ajuda.
 * Controle de Versão (Git): Sei fazer com autonomia.
 
 #### Soft Skills  
 
-* Trabalho em equipe: Durante o decorrer do processo de desenvolvimento, decidimos fragmentar o projeto em tarefas a fim de evitar sobrecarregar qualquer integrante da equipe. Essa abordagem possibilitou o aprimoramento da colaboração entre os membros, garantindo, assim, a entrega de um trabalho de elevada excelência.
-* Empatia: Para entender a necessidade do cliente e contruir uma aplicação para o atender e sanar sua dor.
-* Criatividade: Certamente, este projeto elevou minha criatividade ao máximo, deixando-me completamente satisfeito com o resultado final, tanto em termos de estética como de funcionalidade.
+
+* Organização: Na minha estreia como Product Owner, desenvolvi competências na elaboração de backlogs e na distribuição de tarefas por sprints, o que resultou em uma gestão mais eficiente do projeto.
+
+* Gerenciamento de tempo: Exercendo a função de Product Owner, desenvolvi habilidades essenciais de gerenciamento de tempo, capacitando-me a estruturar o projeto de forma eficaz e cumprir as tarefas propostas dentro dos prazos estabelecidos.
 
 
 ##
