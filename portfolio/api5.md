@@ -1,4 +1,4 @@
-### Em 2023-1
+### Em 2023-2
 ![Logo do projeto](/img/logo.jpeg)
 
 ### Parceiro Acadêmico
