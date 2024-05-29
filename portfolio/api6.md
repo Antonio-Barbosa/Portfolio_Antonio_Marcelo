@@ -47,9 +47,8 @@ Desenvolver uma aplicação web robusta para gerenciar redzones, departamentos e
 
 ### Projeto:
 
-<img src="../img/historico.gif"/>
-
 ## Front-end
+
 - Sistema de Login e Niveis de Usuarios
 ![niveis de usuario](https://github.com/4-Fatech/API-6SEM-Docs/assets/88987612/d0899ce8-94c8-4f27-8a21-bb38c2bb03d4)
 - Recuperação de Senha
