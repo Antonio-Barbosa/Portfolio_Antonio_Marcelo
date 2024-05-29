@@ -50,22 +50,39 @@ Desenvolver uma aplicação web robusta para gerenciar redzones, departamentos e
 ### Front-end
 
 - Sistema de Login e Niveis de Usuarios
+
 ![niveis de usuario](https://github.com/4-Fatech/API-6SEM-Docs/assets/88987612/d0899ce8-94c8-4f27-8a21-bb38c2bb03d4)
+
 - Recuperação de Senha
+
 ![recuperar senha](https://github.com/4-Fatech/API-6SEM-Docs/assets/88987612/b0ceb03f-7854-40ec-9085-f4d385b3bdee)
+
 - Tela de Perfil
+
 ![tela de perfil](https://github.com/4-Fatech/API-6SEM-Docs/assets/88987612/9fb36c56-11a9-456b-a6b5-5d947962004c)
+
 - Geração de Relatórios de Departamentos
+
 ![geração de relatorio](https://github.com/4-Fatech/API-6SEM-Docs/assets/88987612/2381ede9-dc2e-4bcb-a2b8-0176df4c4575)
+
 - Criar, Deletar, visualizar e Alterar Usuarios
+
 ![crud usuarios](https://github.com/4-Fatech/API-6SEM-Docs/assets/88494278/829a487b-fb2b-4df7-aebc-6e7186b88675)
+
 - Criar, Deletar, visualizar e Alterar Departamentos
+
 ![crud departamentos](https://github.com/4-Fatech/API-6SEM-Docs/assets/88494278/4626e08a-285e-4f95-abd5-9ccc295ede66)
+
 - Criar, Deletar, visualizar e Alterar Redzones
+
 ![crud redzone](https://github.com/4-Fatech/API-6SEM-Docs/assets/88494278/6579b810-eeaf-4556-aefb-cd77f86829df)
+
 - Filtro de Redzones
+
 ![filtro redzones](https://github.com/4-Fatech/API-6SEM-Docs/assets/88494278/0fb8b127-f259-4aec-a516-c11925e6cb49)
+
 - Visualização do fluxo de pessoas em tempo real - Frontend
+
 ![historico (1)](https://github.com/4-Fatech/API-6SEM-Docs/assets/89141910/240324d8-b81a-4fde-a98e-9f834c69bec6)
 
 ### IA
