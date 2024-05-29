@@ -47,7 +47,7 @@ Desenvolver uma aplicação web robusta para gerenciar redzones, departamentos e
 
 ### Projeto:
 
-<img src="./img/historico.gif"/>
+<img src="../img/historico.gif"/>
 
 #### Tecnologias adotadas na solução
 
