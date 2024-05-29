@@ -42,12 +42,12 @@ Desenvolver uma aplicação web robusta para gerenciar redzones, departamentos e
 
 
 
-### Link do Github
+## Link do Github
 <a href="https://github.com/4-Fatech/API-6SEM/tree/main" target="_blank"><img src="/img/logoGit.png" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Fatech</span></a>
 
-### Projeto:
+## Projeto:
 
-## Front-end
+### Front-end
 
 - Sistema de Login e Niveis de Usuarios
 ![niveis de usuario](https://github.com/4-Fatech/API-6SEM-Docs/assets/88987612/d0899ce8-94c8-4f27-8a21-bb38c2bb03d4)
@@ -68,7 +68,7 @@ Desenvolver uma aplicação web robusta para gerenciar redzones, departamentos e
 - Visualização do fluxo de pessoas em tempo real - Frontend
 ![historico (1)](https://github.com/4-Fatech/API-6SEM-Docs/assets/89141910/240324d8-b81a-4fde-a98e-9f834c69bec6)
 
-## IA
+### IA
 
 - IA Contador
 [link](https://drive.google.com/drive/folders/1hxaFBrcK-wz19VwocaK4iVY4c_-YOyjK?usp=sharing)
@@ -77,7 +77,7 @@ Desenvolver uma aplicação web robusta para gerenciar redzones, departamentos e
 - IA e Melhoramentos 
 [link](https://drive.google.com/drive/folders/1j6hTLl_RKR6bb-RFbEqQ4ryYUkJfwjLF?usp=sharing)
 
-#### Tecnologias adotadas na solução
+### Tecnologias adotadas na solução
 
 * <img src="https://skillicons.dev/icons?i=java" width="200" /> Java: Linguagem de programação orientada a objetos, utilizada para o desenvolvimento do servidor back-end, garantindo robustez e escalabilidade.
 * <img src="https://skillicons.dev/icons?i=spring" width="200" /> Spring Boot: Framework Java empregado para o desenvolvimento do servidor back-end, proporcionando uma configuração simplificada e uma arquitetura modular.
@@ -90,7 +90,7 @@ Desenvolver uma aplicação web robusta para gerenciar redzones, departamentos e
 * <img src="https://skillicons.dev/icons?i=vscode" width="200" /> Visual Studio Code: Ambiente de desenvolvimento integrado (IDE) utilizado como ferramenta de apoio para o desenvolvimento do código, conhecido por sua flexibilidade e vasto suporte a extensões.
 
 
-#### Contribuições pessoais
+### Contribuições pessoais
 
 Contribuí significativamente para o desenvolvimento de um projeto inovador ao participar ativamente em várias áreas. Minha contribuição incluiu:
 
@@ -105,7 +105,7 @@ Contribuí significativamente para o desenvolvimento de um projeto inovador ao p
 
 Minha atuação abrangente em múltiplas frentes do projeto contribuiu para a criação de uma aplicação web eficiente e integrada, que permite não apenas a gestão de redzones, departamentos e usuários, mas também o monitoramento em tempo real do fluxo de pessoas.
 
-#### Hard Skills
+### Hard Skills
 
 * Programação em Java com Spring Boot: Sei fazer com autonomia.
 * Desenvolvimento Web em Vue: Sei fazer com ajuda.
@@ -113,7 +113,7 @@ Minha atuação abrangente em múltiplas frentes do projeto contribuiu para a cr
 * Desenvolvimento e treinamento de uma IA (YoloV8): Sei fazer com autonomia.
 * Controle de Versão (Git): Sei fazer com autonomia.
 
-#### Soft Skills  
+### Soft Skills  
 
 Durante minha participação no projeto, desenvolvi e aperfeiçoei várias soft skills essenciais, incluindo:
 
