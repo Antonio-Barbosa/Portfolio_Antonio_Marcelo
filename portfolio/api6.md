@@ -49,6 +49,35 @@ Desenvolver uma aplicação web robusta para gerenciar redzones, departamentos e
 
 <img src="../img/historico.gif"/>
 
+## Front-end
+- Sistema de Login e Niveis de Usuarios
+![niveis de usuario](https://github.com/4-Fatech/API-6SEM-Docs/assets/88987612/d0899ce8-94c8-4f27-8a21-bb38c2bb03d4)
+- Recuperação de Senha
+![recuperar senha](https://github.com/4-Fatech/API-6SEM-Docs/assets/88987612/b0ceb03f-7854-40ec-9085-f4d385b3bdee)
+- Tela de Perfil
+![tela de perfil](https://github.com/4-Fatech/API-6SEM-Docs/assets/88987612/9fb36c56-11a9-456b-a6b5-5d947962004c)
+- Geração de Relatórios de Departamentos
+![geração de relatorio](https://github.com/4-Fatech/API-6SEM-Docs/assets/88987612/2381ede9-dc2e-4bcb-a2b8-0176df4c4575)
+- Criar, Deletar, visualizar e Alterar Usuarios
+![crud usuarios](https://github.com/4-Fatech/API-6SEM-Docs/assets/88494278/829a487b-fb2b-4df7-aebc-6e7186b88675)
+- Criar, Deletar, visualizar e Alterar Departamentos
+![crud departamentos](https://github.com/4-Fatech/API-6SEM-Docs/assets/88494278/4626e08a-285e-4f95-abd5-9ccc295ede66)
+- Criar, Deletar, visualizar e Alterar Redzones
+![crud redzone](https://github.com/4-Fatech/API-6SEM-Docs/assets/88494278/6579b810-eeaf-4556-aefb-cd77f86829df)
+- Filtro de Redzones
+![filtro redzones](https://github.com/4-Fatech/API-6SEM-Docs/assets/88494278/0fb8b127-f259-4aec-a516-c11925e6cb49)
+- Visualização do fluxo de pessoas em tempo real - Frontend
+![historico (1)](https://github.com/4-Fatech/API-6SEM-Docs/assets/89141910/240324d8-b81a-4fde-a98e-9f834c69bec6)
+
+## IA
+
+- IA Contador
+[link](https://drive.google.com/drive/folders/1hxaFBrcK-wz19VwocaK4iVY4c_-YOyjK?usp=sharing)
+- IA Contador de Múltiplas Redzones
+[link](https://drive.google.com/drive/folders/1hxaFBrcK-wz19VwocaK4iVY4c_-YOyjK?usp=sharing)
+- IA e Melhoramentos 
+[link](https://drive.google.com/drive/folders/1j6hTLl_RKR6bb-RFbEqQ4ryYUkJfwjLF?usp=sharing)
+
 #### Tecnologias adotadas na solução
 
 * <img src="https://skillicons.dev/icons?i=java" width="200" /> Java: Linguagem de programação orientada a objetos, utilizada para o desenvolvimento do servidor back-end, garantindo robustez e escalabilidade.
@@ -56,7 +85,7 @@ Desenvolver uma aplicação web robusta para gerenciar redzones, departamentos e
 * <img src="https://skillicons.dev/icons?i=vue" width="200" /> Vue: Framework para a criação de interfaces de usuário, escolhido por sua simplicidade e capacidade de construir interfaces interativas e reativas.
 * <img src="https://skillicons.dev/icons?i=vuetify" width="200" /> Vuetify: Framework responsivo baseado em Vue.js, utilizado para estilização e responsividade das telas, facilitando a criação de um design consistente e moderno.
 * <img src="https://skillicons.dev/icons?i=supabase" width="200" /> Supabase: Utilizado como banco de dados do projeto, oferecendo uma solução completa e em tempo real para gerenciamento de dados.
-* <img src="../img/logoYolo.jpg" width="200" style="border-radius: 10%;" /> **Ultralytics YOLOv8**: Utilizado para treinamento de IA e conexão ao banco de dados, permitindo o reconhecimento eficiente de padrões e análise de dados em tempo real.
+* <img src="../img/logoYolo.jpg" width="200" /> **Ultralytics YOLOv8**: Utilizado para treinamento de IA e conexão ao banco de dados, permitindo o reconhecimento eficiente de padrões e análise de dados em tempo real.
 * <img src="https://skillicons.dev/icons?i=py" width="200"  /> Python: Linguagem de programação utilizada para manipulação da IA, devido à sua versatilidade e vasta gama de bibliotecas especializadas em aprendizado de máquina.
 * <img src="https://skillicons.dev/icons?i=azure" width="200" /> Azure: Plataforma utilizada para gestão da equipe, oferecendo uma variedade de serviços para colaboração, armazenamento e implementação de aplicações.
 * <img src="https://skillicons.dev/icons?i=vscode" width="200" /> Visual Studio Code: Ambiente de desenvolvimento integrado (IDE) utilizado como ferramenta de apoio para o desenvolvimento do código, conhecido por sua flexibilidade e vasto suporte a extensões.
