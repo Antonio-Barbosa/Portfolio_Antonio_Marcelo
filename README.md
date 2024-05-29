@@ -34,7 +34,7 @@
 | [3º Semestre 2022-2](https://github.com/Antonio-Barbosa/Portfolio_Antonio_Marcelo/blob/main/portfolio/api3.md)|	Desenvolvimento de uma aplicação para realizar o cálculo de distância da pista de pouso. |
 | [4º Semestre 2023-1](https://github.com/Antonio-Barbosa/Portfolio_Antonio_Marcelo/blob/main/portfolio/api4.md)|Aplicação web de gerenciamento de tickets e usuários, com hierarquia de privilégios e avaliações de risco, impacto e custo de cada ticket. |
 |[ 5º Semestre 2023-2 ](https://github.com/Antonio-Barbosa/Portfolio_Antonio_Marcelo/blob/main/portfolio/api5.md)|Aplicação móvel que tem a finalidade de permitir aos funcionários consultar, atualizar, desativar e cadastrar informações dos equipamentos.|
-|[ 6º Semestre 2023-2 ](https://github.com/Antonio-Barbosa/Portfolio_Antonio_Marcelo/blob/main/portfolio/api6.md)|Aplicação que possibilita monitorar o fluxo de pessoas de uma área específica.|
+|[ 6º Semestre 2024-1 ](https://github.com/Antonio-Barbosa/Portfolio_Antonio_Marcelo/blob/main/portfolio/api6.md)|Aplicação que possibilita monitorar o fluxo de pessoas de uma área específica.|
 
 
 
