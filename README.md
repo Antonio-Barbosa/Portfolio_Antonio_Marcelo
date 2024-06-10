@@ -11,7 +11,7 @@
 ## Introdução
 <div>
 	<img src="/img/antonio.jpg" alt="Foto de perfil" width=150 height=150 />
-	<p>Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC Jessen Vidal, atualmente no 5º semestre. Trabalho na área da qualidade no setor automotivo, mas minha verdadeira paixão é a tecnologia. Estou sempre em busca de novos conhecimentos, com foco especial no desenvolvimento web, uma área onde me identifico profundamente. Concentro-me principalmente em ReactJS/TS e estou constantemente aprimorando meu conhecimento. Estou ansioso para iniciar minha jornada profissional na área.
+	<p>Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC Jessen Vidal, atualmente no 6º semestre. Trabalho na área da qualidade no setor automotivo, mas minha verdadeira paixão é a tecnologia. Estou sempre em busca de novos conhecimentos, com foco especial no desenvolvimento web, uma área onde me identifico profundamente. Concentro-me principalmente em ReactJS/TS e estou constantemente aprimorando meu conhecimento. Estou ansioso para iniciar minha jornada profissional na área.
 	</p>
 	
 </div>
