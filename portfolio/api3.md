@@ -11,22 +11,30 @@ O propósito deste projeto era desenvolver uma aplicação com a capacidade de a
 
 No interior da aplicação, os utilizadores têm a habilidade de criar e administrar contas, inserir informações pertinentes sobre as aeronaves e os fatores que afetam os cálculos, tais como a marca da aeronave, o tipo de motor e as condições meteorológicas, incluindo chuva e vento. A aplicação capacita o cálculo da pista mínima respeitando esses critérios, otimizando todo o processo.
 
-### Sprints Backlog
+### Link do Github
+<a href="https://github.com/4-Fatech/API-3Semestre" target="_blank"><img src="/img/logoGit.png" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Fatech</span></a>
+
+#
+
+<details>
+   <summary><strong>Sprints Backlog</strong></summary>
 
 <p align="center">
 	<img src="/img/backlog3.png" alt="Backlog das sprints">
 	<p align="center"><strong>Backlog das sprints</strong></p>
 </p>
 
-### Apresentação do projeto
+</details>
+
+<details>
+   <summary><strong>Apresentação do projeto</strong></summary>
+	
 [link da apresentação](https://github.com/Gabriel-Coutinho0/Portifolio-Gabriel-Coutinho-Silva/assets/67170978/3929c940-3bcb-4a1f-bee5-53f4dfdfb4cd)
 
+</details>
 
-
-### Link do Github
-<a href="https://github.com/4-Fatech/API-3Semestre" target="_blank"><img src="/img/logoGit.png" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Fatech</span></a>
-
-#### Tecnologias adotadas na solução
+<details>
+   <summary><strong>Tecnologias adotadas na solução</strong></summary>
 
 As tecnologias adotadas para a solução foram as seguintes:  
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="200" /> [TypeScript](https://www.typescriptlang.org/), Utilizado para criação das interfaces quanto da conexão com o banco de dados.
@@ -36,6 +44,9 @@ As tecnologias adotadas para a solução foram as seguintes:
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Logo do JavaScript" width="200" /> [VScode](https://code.visualstudio.com/), Utilizado como ferramenta para o desenvolvimento do código.
 * <img src="https://skillicons.dev/icons?i=git,github" alt="Logo git/github" width="200" /> [Git](https://git-scm.com/doc), Utilizado para versionamento e armazenamento do código.
 
+</details>
+
+#
 
 #### Contribuições pessoais
 
