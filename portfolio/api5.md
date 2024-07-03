@@ -14,6 +14,8 @@ Esta solução proporciona também a administração de usuários, juntamente co
 ### Link do Github
 <a href="https://github.com/4-Fatech/API5Semestre" target="_blank"><img src="/img/logoGit.png" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Fatech</span></a>
 
+#
+
 <details>
    <summary><strong>Sprints Backlog</strong></summary>
 
@@ -83,6 +85,8 @@ As tecnologias adotadas para a solução foram as seguintes:
 * <img src="https://skillicons.dev/icons?i=git,github" alt="Logo git/github" width="200" /> [Git](https://git-scm.com/doc), Utilizado para versionamento e armazenamento do código.
 
 </details>
+
+#
 
 #### Contribuições pessoais
 
