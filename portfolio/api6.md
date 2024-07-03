@@ -12,6 +12,7 @@ Desenvolver uma aplicação web robusta para gerenciar redzones, departamentos e
 ## Link do Github
 <a href="https://github.com/4-Fatech/API-6SEM/tree/main" target="_blank"><img src="/img/logoGit.png" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Fatech</span></a>
 
+#
 <details>
    <summary><strong>Sprints Backlog</strong></summary>
 
@@ -111,6 +112,8 @@ Desenvolver uma aplicação web robusta para gerenciar redzones, departamentos e
 * <img src="https://skillicons.dev/icons?i=azure" width="200" /> Azure: Plataforma utilizada para gestão da equipe, oferecendo uma variedade de serviços para colaboração, armazenamento e implementação de aplicações.
 * <img src="https://skillicons.dev/icons?i=vscode" width="200" /> Visual Studio Code: Ambiente de desenvolvimento integrado (IDE) utilizado como ferramenta de apoio para o desenvolvimento do código, conhecido por sua flexibilidade e vasto suporte a extensões.
 </details>
+
+#
 
 ### Contribuições pessoais
 
