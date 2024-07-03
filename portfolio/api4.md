@@ -11,18 +11,23 @@ O projeto tem como objetivo o desenvolvimento de uma aplicação web moderna e r
 
 Esta solução proporciona a administração de usuários, juntamente com suas respectivas permissões, que abrangem diversos níveis de acesso. Os tickets podem ser categorizados com base no tipo, na prioridade e no departamento, simplificando assim a organização e filtragem. Os usuários têm a capacidade de visualizar e atualizar os tickets que criaram ou que foram designados a eles. Além disso, a aplicação incorpora funcionalidades de manutenção para administrar departamentos, tipos de tickets e prioridades. No geral, trata-se de uma solução abrangente para a gestão de solicitações de suporte e problemas, apresentando um design moderno e acessibilidade via web.
 
-### Sprints Backlog
+### Link do Github
+<a href="https://github.com/4-Fatech/API-4Semestre" target="_blank"><img src="/img/logoGit.png" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Fatech</span></a>
+
+#
+
+<details>
+   <summary><strong>Sprints Backlog</strong></summary>
 
 <p align="center">
 	<img src="/img/backlog4.png" alt="Backlog das sprints">
 	<p align="center"><strong>Backlog das sprints</strong></p>
 </p>
+</details>
 
 
-### Link do Github
-<a href="https://github.com/4-Fatech/API-4Semestre" target="_blank"><img src="/img/logoGit.png" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Fatech</span></a>
-
-### Projeto:
+<details>
+   <summary><strong>Projeto</strong></summary>
 
 * Crud Ticket
 <p align="center">
@@ -48,7 +53,11 @@ Esta solução proporciona a administração de usuários, juntamente com suas r
 	<p align="center"><strong>Prévia da opção de idioma</strong></p>
 </p>
 
-#### Tecnologias adotadas na solução
+</details>
+
+<details>
+   <summary><strong>Tecnologias adotadas na solução</strong></summary>
+
 
 As tecnologias adotadas para a solução foram as seguintes:  
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="200" /> [TypeScript](https://www.typescriptlang.org/), Utilizado para criação das interfaces quanto da conexão com o banco de dados.
@@ -60,6 +69,9 @@ As tecnologias adotadas para a solução foram as seguintes:
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Logo do JavaScript" width="200" /> [VScode](https://code.visualstudio.com/), Utilizado como ferramenta para o desenvolvimento do código.
 * <img src="https://skillicons.dev/icons?i=git,github" alt="Logo git/github" width="200" /> [Git](https://git-scm.com/doc), Utilizado para versionamento e armazenamento do código.
 
+</details>
+
+#
 
 #### Contribuições pessoais
 
