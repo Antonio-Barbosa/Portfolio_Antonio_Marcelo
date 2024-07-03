@@ -9,7 +9,12 @@ Cliente: Altave
 
 Desenvolver uma aplicação web robusta para gerenciar redzones, departamentos e usuários, que inclua funcionalidades para consultar, atualizar, desativar e cadastrar dados. Adicionalmente, a aplicação deve ser capaz de monitorar em tempo real o fluxo de pessoas que entram e saem das redzones, proporcionando uma visão abrangente e atualizada sobre a movimentação dentro dessas áreas.
 
+## Link do Github
+<a href="https://github.com/4-Fatech/API-6SEM/tree/main" target="_blank"><img src="/img/logoGit.png" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Fatech</span></a>
 
+<details>
+   <summary><strong>Sprints Backlog</strong></summary>
+   
 ### Sprints Backlog
 
 | Rank | Prioridade | User Story | Estimativa |Sprint | Requisito do Parceiro |
@@ -40,12 +45,10 @@ Desenvolver uma aplicação web robusta para gerenciar redzones, departamentos e
 | 24 | Média |Como gerente área, quero um dashboard que compile e exiba métricas importantes de todos as redzones que são do meu departamento, incluindo capacidade atual, número de alertas ativos e média de permanência das pessoas, para facilitar a análise e tomada de decisões estratégicas. | 20 | 4 | RF2 |
 | 25 | Baixa | Como gerente geral, quero um guia de instalação detalhado e claro, para facilitar a implantação do sistema. | 20 | 4 | RNF3 |
 
+</details>
 
-
-## Link do Github
-<a href="https://github.com/4-Fatech/API-6SEM/tree/main" target="_blank"><img src="/img/logoGit.png" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Fatech</span></a>
-
-## Projeto:
+<details>
+   <summary><strong>Projeto</strong></summary>
 
 ### Front-end
 
@@ -94,7 +97,11 @@ Desenvolver uma aplicação web robusta para gerenciar redzones, departamentos e
 - IA e Melhoramentos 
 [link](https://drive.google.com/drive/folders/1j6hTLl_RKR6bb-RFbEqQ4ryYUkJfwjLF?usp=sharing)
 
-### Tecnologias adotadas na solução
+</details>
+
+<details>
+   <summary><strong>Tecnologias adotadas na solução</strong></summary>
+
 
 * <img src="https://skillicons.dev/icons?i=java" width="200" /> Java: Linguagem de programação orientada a objetos, utilizada para o desenvolvimento do servidor back-end, garantindo robustez e escalabilidade.
 * <img src="https://skillicons.dev/icons?i=spring" width="200" /> Spring Boot: Framework Java empregado para o desenvolvimento do servidor back-end, proporcionando uma configuração simplificada e uma arquitetura modular.
@@ -105,7 +112,7 @@ Desenvolver uma aplicação web robusta para gerenciar redzones, departamentos e
 * <img src="https://skillicons.dev/icons?i=py" width="200"  /> Python: Linguagem de programação utilizada para manipulação da IA, devido à sua versatilidade e vasta gama de bibliotecas especializadas em aprendizado de máquina.
 * <img src="https://skillicons.dev/icons?i=azure" width="200" /> Azure: Plataforma utilizada para gestão da equipe, oferecendo uma variedade de serviços para colaboração, armazenamento e implementação de aplicações.
 * <img src="https://skillicons.dev/icons?i=vscode" width="200" /> Visual Studio Code: Ambiente de desenvolvimento integrado (IDE) utilizado como ferramenta de apoio para o desenvolvimento do código, conhecido por sua flexibilidade e vasto suporte a extensões.
-
+</details>
 
 ### Contribuições pessoais
 
