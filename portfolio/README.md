@@ -10,12 +10,23 @@ Para acompanhar a onda da indústria 4.0, a escola decidiu adotar uma estratégi
 
 O grupo criou um projeto chamado Fatech, com o objetivo de automatizar a clonagem dos projetos realizados pelas turmas dos cursos de TI dos semestres antecessores. Tudo começou com a necessidade de armazenar e clonar os projetos feitos, para que esses projetos pudessem ser guardados e gerenciados pela instituição da FATEC. A ideia central era desenvolver uma aplicação em Python que fosse capaz de coletar os links do GitHub de cada grupo e, em seguida, clonar automaticamente os projetos, além de criarmos um site para facilitar a filtragem dos projetos, usando o nome do grupo ou semestre cursado, por exemplo.
 
-### Sprints Backlog
+### Link do Github
+<a href="https://github.com/Grupo-4-Fatech/API-1Semestre" target="_blank"><img src="/img/logoGit.png" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Fatech</span></a>
+
+#
+
+<details>
+   <summary><strong>Sprints Backlog</strong></summary>
 
 <p align="center">
 	<img src="/img/backLog.png" alt="Backlog das sprints">
 	<p align="center"><strong>Backlog das sprints</strong></p>
 </p>
+
+</details>
+
+<details>
+   <summary><strong>Apresentação do projeto</strong></summary>
 
 ### Raspagem dos links
 <p align="center">
@@ -29,19 +40,21 @@ O grupo criou um projeto chamado Fatech, com o objetivo de automatizar a clonage
 	<p align="center"><strong>Prévia da clonagem</strong></p>
 </p>
 
+</details>
 
-### Link do Github
-<a href="https://github.com/Grupo-4-Fatech/API-1Semestre" target="_blank"><img src="/img/logoGit.png" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Fatech</span></a>
 
-#### Tecnologias adotadas na solução
-
-As tecnologias adotadas para a solução foram as seguintes:  
+<details>
+   <summary><strong>Tecnologias adotadas para a solução</strong></summary>
+ 
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="200" /> [Python](https://www.python.org/), Foi utilizado para a criação da automação e da clonagem de cada link.
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Logo do JavaScript" width="200" /> [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript), Foi utilizado para a criação do site.
 
 * <img src="https://img.freepik.com/icones-gratis/html-5_318-674234.jpg" alt="Logo do HTML" width="200" /> [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML), Foi utilado para estruturar o site.
 * <img src="https://logospng.org/download/css-3/logo-css-3-2048.png" alt="Logo do CSS" width="200" /> [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML),  Foi utilizado para a estilização do site.
 
+</details>
+
+#
 
 #### Contribuições pessoais
 
