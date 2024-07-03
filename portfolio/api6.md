@@ -14,8 +14,6 @@ Desenvolver uma aplicação web robusta para gerenciar redzones, departamentos e
 
 <details>
    <summary><strong>Sprints Backlog</strong></summary>
-   
-### Sprints Backlog
 
 | Rank | Prioridade | User Story | Estimativa |Sprint | Requisito do Parceiro |
 |--- |--- |--- |--- |--- |--- |
