@@ -11,18 +11,21 @@ O objetivo fundamental é disponibilizar uma aplicação móvel que permita cons
 
 Esta solução proporciona também a administração de usuários, juntamente com suas respectivas permissões.
 
-### Sprints Backlog
+### Link do Github
+<a href="https://github.com/4-Fatech/API5Semestre" target="_blank"><img src="/img/logoGit.png" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Fatech</span></a>
+
+<details>
+   <summary><strong>Sprints Backlog</strong></summary>
 
 <p align="center">
 	<img src="/img/backLog5.png" alt="Backlog das sprints">
 	<p align="center"><strong>Backlog das sprints</strong></p>
 </p>
 
+</details>
 
-### Link do Github
-<a href="https://github.com/4-Fatech/API5Semestre" target="_blank"><img src="/img/logoGit.png" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Fatech</span></a>
-
-### Projeto:
+<details>
+   <summary><strong>Projeto</strong></summary>
 
 * CRUD de Equipamentos e Usuarios
 <p align="center">
@@ -66,8 +69,10 @@ Esta solução proporciona também a administração de usuários, juntamente co
 	<p align="center"><strong>Localização em tempo real</strong></p>
 </p>
 
+</details>
 
-#### Tecnologias adotadas na solução
+<details>
+   <summary><strong>Tecnologias adotadas na solução</strong></summary>
 
 As tecnologias adotadas para a solução foram as seguintes:  
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="200" /> [TypeScript](https://www.typescriptlang.org/), Utilizado para criação das interfaces quanto da conexão com o banco de dados.
@@ -77,6 +82,7 @@ As tecnologias adotadas para a solução foram as seguintes:
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Logo do JavaScript" width="200" /> [VScode](https://code.visualstudio.com/), Utilizado como ferramenta para o desenvolvimento do código.
 * <img src="https://skillicons.dev/icons?i=git,github" alt="Logo git/github" width="200" /> [Git](https://git-scm.com/doc), Utilizado para versionamento e armazenamento do código.
 
+</details>
 
 #### Contribuições pessoais
 
